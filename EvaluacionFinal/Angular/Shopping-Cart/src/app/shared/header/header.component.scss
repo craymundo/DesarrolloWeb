@@ -1,0 +1,18 @@
+.header{
+  width: 100%;
+  margin: 0 auto;
+  height: 60px;
+  display: table;
+
+}
+
+div.header h3{
+  display: table-cell;
+  vertical-align: middle;
+}
+
+div.header app-navbar{
+  display: table-cell;
+   vertical-align: middle;
+  text-align: right;
+}
